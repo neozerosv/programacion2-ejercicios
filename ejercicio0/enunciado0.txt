@@ -1,0 +1,1 @@
+Escribir una función que dado una lista de numeros naturales, los ordene de tal forma que muestre el numero mas grande posible. Pj. Dado [50, 2, 1, 9],  el número que se puede formar que sea mas grande es el 95021
