@@ -1,0 +1,2 @@
+Desarrollar una funcion que realice la sumatoria de los cuadrados desde  1 hasta N y que devuelva la suma.
+Pj. Sumatoria de los cuadrados de N=3 es 1*1+2*2+3*3=14, N=4 es 1*1+2*2+3*3+4*4=30
